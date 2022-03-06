@@ -1,5 +1,6 @@
 from setuptools import setup
 
+
 setup(
     name="gym_wordle",
     version="0.0.1",
