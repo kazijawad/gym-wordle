@@ -4,7 +4,7 @@ An OpenAI gym environment for Wordle.
 
 ## Usage
 
-```{python}
+```python
 import gym
 import gym_wordle
 
